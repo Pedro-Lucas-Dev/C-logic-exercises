@@ -43,5 +43,23 @@
   *  COURSE SOLUTION
   * ============================================================
   *
-  *  (paste the course's answer here, commented out)
-  */
+
+  #include<stdio.h>
+
+  int main() {
+
+    int idade, numeroFilhos;
+    float propostaPlanoSaude;
+
+    printf("Informe a sua idade: ");
+    scanf("%d", &idade);
+    printf("Informe o numero de filhos: ");
+    scanf("%d", &numeroFilhos);
+
+    propostaPlanoSaude = 200 + (83 * numeroFilhos);
+    
+    printf("\nO valor do seu plano de saude ficara em R$ %.2f", propostaPlanoSaude);
+
+  }
+   
+*/

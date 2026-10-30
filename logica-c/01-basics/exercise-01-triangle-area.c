@@ -42,6 +42,23 @@
   * ============================================================
   *  COURSE SOLUTION
   * ============================================================
-  *
-  *  (paste the course's answer here, commented out)
+
+  #include<stdio.h>
+
+  int main() {
+
+    float base, altura, area;
+
+    printf("Informe a base do triangulo (cm): ");
+    scanf("%f", &base);
+
+    printf("Informe a altura do triangulo (cm): ");
+    scanf("%f", &altura);
+
+    area = ( base * altura)/2;
+
+    printf("A area do triangulo foi %.1f", area);
+
+  }
+
   */

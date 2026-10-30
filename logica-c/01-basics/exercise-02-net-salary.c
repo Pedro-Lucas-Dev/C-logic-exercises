@@ -52,5 +52,31 @@
   *  COURSE SOLUTION
   * ============================================================
   *
-  *  (paste the course's answer here, commented out)
+
+  #include<stdio.h>
+
+  int main() {
+
+    char nome[20];
+    float ir, vt, salarioBase, salarioLiquido;
+
+    printf("Informe o nome: ");
+    scanf("%s", &nome);
+    printf("Informe o salario base: ");
+    scanf("%f", &salarioBase);
+
+    ir = salarioBase * 15 / 100;
+    vt = salarioBase * 6 / 100;
+    vr = salarioBase * 1.5 / 100;
+
+    salarioLiquido = salarioBase - ir - vt - vr;
+
+    printf("\n------------Descontos------------")
+    printf("\nIR = %.2f", ir)
+    printf("\nVT = %.2f", vt)
+    printf("\nVR = %.2f", vr)
+
+    printf("\nO salario liquido foi de %.2f", salarioLiquido);
+  }
+  
   */
