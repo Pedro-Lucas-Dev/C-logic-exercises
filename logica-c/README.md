@@ -129,6 +129,10 @@ exercise.exe
 - **OS:** Windows
 - **Version control:** Git & GitHub
 
+## 🌐 A note on language
+
+The course is taught in Portuguese, so the course's solutions are in Portuguese. I write my own solutions in English, as a way to practice and test my English.
+
 ## 🤖 A note on AI
 
 **All the solutions in this repository were written by me, without the use of AI.** The only exception is this README, which was written with the help of AI.
