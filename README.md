@@ -16,7 +16,9 @@
 
 This repository is a record of **how I think**.
 
-While taking a programming logic course (taught in C), I decided not to just copy the official answers. Instead, I solve each problem on my own first, and then I save my reasoning side by side with the course's solution.
+I'm taking a **Full Stack Developer course**, and in its initial programming logic module, **C was the language chosen** to build and train logical thinking and programming fundamentals. Working in C, a low-level and unforgiving language, forces me to understand what the code is actually doing, which makes it a great tool for developing logic.
+
+Instead of just copying the official answers, I solve each problem on my own first, and then I save my reasoning side by side with the course's solution.
 
 The course already provides the correct answers, so the goal here is different: to **document my own problem-solving process**, compare it with other approaches, and watch my logic evolve over time.
 
